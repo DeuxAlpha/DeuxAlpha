@@ -1,11 +1,4 @@
-<!-- Your Name -->
-# Hello, World! 👋
-
 ## Full-Stack Developer | Vue.js | .NET | SQL Server | EF Core
-
-Welcome to my coding universe! I'm a passionate Full-Stack Developer who enjoys working with Vue.js and .NET/.NET Core. I love building robust applications using SQL Server and EF Core. JetBrains IDEs have a special place in my heart, as they enhance my development experience.
-
-### 💻 Technologies & Tools
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=flat)
